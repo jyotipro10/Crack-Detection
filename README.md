@@ -8,8 +8,8 @@ The images can contain either cracks or no cracks. We have to develop a binary i
 classification model that can classify from a given image if it contains any cracks or not.
 
 ### Datasets
-Datasets can be found on kaggle(Due to large size). Link is provided below.
-[Link](https://www.kaggle.com/c/crack-identification-ce784a-2020-iitk/data)
+Datasets can be found on kaggle(Due to large size). Link is provided below.\
+[Dataset](https://www.kaggle.com/c/crack-identification-ce784a-2020-iitk/data)
 
 ### Notebooks
 Jupyter Notebook in kaggle environment is provided as .ipynb format.
